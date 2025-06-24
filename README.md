@@ -1,5 +1,3 @@
-# Task 2 - Tic-Tac-Toe AI (Minimax Algorithm)
-
 This is a terminal-based Tic-Tac-Toe game where a human can play against an unbeatable AI. The AI uses the Minimax algorithm to simulate all possible moves and always selects the optimal one.
 
 ### 🔧 Features
